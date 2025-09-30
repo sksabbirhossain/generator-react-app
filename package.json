@@ -1,0 +1,12 @@
+{
+  "name": "react-csv-generator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
+}
